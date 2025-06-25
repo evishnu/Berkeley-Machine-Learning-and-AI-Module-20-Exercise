@@ -28,6 +28,7 @@ This notebook is part of a healthcare-focused capstone project that aims to pred
 - **Random Forest**
 - **Support Vector Machine (SVM)**
 - **K-Nearest Neighbors (KNN)**
+- **Note: I have compared the models using first 10,000 rows of the diabetic_Data.csv
 
 Each model is evaluated using:
 - Train & test accuracy  
@@ -41,6 +42,7 @@ Each model is evaluated using:
 - **Confusion Matrices**: To examine class-level prediction performance
 - **ROC Curves**: To compare model sensitivity and specificity
 - **AUC Scores**: For overall performance comparison
+- **Note: Visualizations were created using first 10,000 rows of the diabetic_Data.csv
 
 
 
