@@ -53,8 +53,8 @@ Each model is evaluated using:
 └── README.md
 
 ## Enhancement Considerations: This notebook uses default hyperparameters for all models.
-#### You can further improve performance using cross-validation and hyperparameter tuning (e.g., GridSearchCV).
-#### Suitable for binary classification and healthcare ML demonstrations.
+#### Improve performance using cross-validation and hyperparameter tuning (e.g., GridSearchCV). Suitable for binary classification and healthcare ML demonstrations.
+#### Include other Models based on future learning and feedbacks
 
 ## Contact: 
 #### For questions or collaboration, reach out at: evishnu.shukla@gmail.com
